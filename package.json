@@ -9,7 +9,7 @@
     "push": "lms push"
   },
   "author": "user",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "@lmstudio/sdk": "^1.5.0",
     "zod": "^3.25.76"
